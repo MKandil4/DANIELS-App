@@ -1,4 +1,4 @@
-## 🚀 Daniels Portfolio Website (Kandil)
+## 🚀 Daniels Portfolio Website
 
 This is a modern Personal Portfolio Website built as a front-end practice project.
 The project focuses on creating a clean portfolio layout, responsive sections, and implementing interactive UI components commonly used in personal portfolio websites.
